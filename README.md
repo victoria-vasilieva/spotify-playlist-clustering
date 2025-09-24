@@ -72,7 +72,7 @@ Adopt a **hybrid approach** →
 
 ├── Automating Playlist Creation.pdf # Business [presentation slides](https://github.com/victoria-vasilieva/spotify-playlist-clustering/blob/main/Automating%20Playlist%20%20Creation.pdf)
 
-├── requirements.txt # Dependencies
+├── requirements.txt # [Dependencies](https://github.com/victoria-vasilieva/spotify-playlist-clustering/blob/main/requirements.txt)
 
 ├── README.md # Project documentation
 
@@ -91,17 +91,16 @@ To run the notebook locally:
    ```bash
    git clone https://github.com/yourusername/spotify-playlist-clustering.git
    cd spotify-playlist-clustering
-Install dependencies
+2. Install dependencies
 
-bash
-Copy code
-pip install -r requirements.txt
-Open the Jupyter notebook
+   ```bash
+      pip install -r requirements.txt
+   ```
+3. Open the Jupyter notebook
 
-bash
-Copy code
-jupyter notebook spofify_songs_clustering.ipynb
-
+   ```bash
+   jupyter notebook spofify_songs_clustering.ipynb
+   ```
 
 ## 📈 Key Takeaways
 Connects machine learning to a real-world business challenge (scalable playlist creation).
