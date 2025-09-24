@@ -66,11 +66,11 @@ Adopt a **hybrid approach** →
 ---
 
 ## 📂 Repository Structure
-├── data/spotify_songs.csv # Dataset (small sample included)
+├── data/spotify_songs.csv # Dataset ([data](https://github.com/victoria-vasilieva/spotify-playlist-clustering/blob/main/3_spotify_5000_songs.csv))
 
-├── spofify_songs_clustering.ipynb # Main analysis & clustering notebook
+├── spofify_songs_clustering.ipynb # Main analysis & clustering [notebook](https://github.com/victoria-vasilieva/spotify-playlist-clustering/blob/main/spofify_songs_clustering.ipynb)
 
-├── Automating Playlist Creation.pdf # Business presentation slides
+├── Automating Playlist Creation.pdf # Business [presentation slides](https://github.com/victoria-vasilieva/spotify-playlist-clustering/blob/main/Automating%20Playlist%20%20Creation.pdf)
 
 ├── requirements.txt # Dependencies
 
@@ -80,7 +80,7 @@ ___
 
 ## 📂 Data
 The dataset used comes from Spotify’s audio features.  
-A data set is included in the `data/` folder for reproducibility.  
+A data set is included [data](https://github.com/victoria-vasilieva/spotify-playlist-clustering/blob/main/3_spotify_5000_songs.csv) for reproducibility.  
 
 ---
 
