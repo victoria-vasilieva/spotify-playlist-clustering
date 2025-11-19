@@ -15,6 +15,8 @@ The result is a **prototype** that demonstrates the potential of machine learnin
 - **Outcome**: Machine learning can group songs into meaningful clusters, but a **hybrid human + AI approach** works best.  
 
 ---
+<img width="1744" height="508" alt="image" src="https://github.com/user-attachments/assets/ab3c9495-af04-450f-adeb-5139fb2ea2b5" />
+
 
 ## 📊 Data & Features
 We used Spotify’s audio features dataset and selected **8 out of 13 key attributes**:  
